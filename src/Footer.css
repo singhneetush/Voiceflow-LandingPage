@@ -1,0 +1,51 @@
+.footer {
+	
+	/* padding: 8rem; */
+	display: flex;
+	flex-direction: row;
+    justify-content: center;
+	align-items: center;
+	display: flex;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.footer-links {
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+	flex-direction: column;
+}
+
+.footer-link {
+	color: #333;
+	font-size: 0.875rem;
+	margin: 1.5rem
+    
+}
+
+.footer-copyright {
+	/* margin-top: 20px; */
+	font-size: 0.75rem;
+	color: #666;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 18em;
+    margin-bottom: 2rem;
+}
+div {
+	text-decoration: none;
+}
+
+#voiceflow-banner{
+    color: #363636;
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+.footer-link-header{
+    font-weight: bold;
+}
